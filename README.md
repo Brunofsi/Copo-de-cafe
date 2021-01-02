@@ -11,8 +11,6 @@
     <img src="img/cafe.gif">
 </h1>
 
-
-#### Acesse clicando **[aqui](https://brunofsi.github.io/Copo-de-cafe/)**
 ---
 
 ## Sobre
